@@ -3,7 +3,7 @@
 
 ## version V0323
 
-## Powerpointsand and Movies can be found in respective folder.
+## Powerpoints and and Movies can be found in respective folder.
 
 ## Quick links to products
 
