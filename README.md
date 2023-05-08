@@ -8,10 +8,17 @@
 ## Quick links to products
 
 ### Data observability with IBM's new product Databand.
-### https://www.databand.ai
+	https://www.databand.ai
 
 ### Learn more about Cloud Pak for Data
-### https://www.ibm.com/products/cloud-pak-for-data
+	https://www.ibm.com/products/cloud-pak-for-data
+
+### Virtual Agents
+	https://www.ibm.com/products/watson-assistant
+### Self-Serve Assets for Embeddable AI using Watson NLP
+	https://github.com/ibm-build-lab/Watson-NLP
+### Use cases and sample notebooks
+	https://www.ibm.com/docs/en/watson-libraries?topic=home-use-cases-sample-notebooks
 
 ## Client stories:
 
