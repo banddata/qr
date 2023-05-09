@@ -1,9 +1,8 @@
-# IBM Data&AI landing page 
+# IBM Data&AI 
 
 
-## version V0323
+## Powerpointscan be found in folder (click the blue "View code" if on mobile).
 
-## Powerpoints and and Movies can be found in respective folder.
 
 ## Quick links to products
 
@@ -24,21 +23,13 @@
 
 ### Powerpoints:
 
-9:15		Smart Chatbots with xyw	
+1		Data platform - Cloud Pak for Data
 
-9:30		Data as a strategic resource at RVB
+2		Watsonx .Data .Governance .AI
 
-10:30		Observability on airflow
+3		Data Observability - Databand
 
-17:30		End of Day one
+4		End of Day one
 
-### Movies:
 
-9:00		Have a look at data with Databand
-		
-09:10		See AI in action with AutoAI
-
-10:15		Tip of the ICEBERG with IBM, a data lakehouse strategy
-
-17:30		End of Day Two
 
