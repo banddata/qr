@@ -27,7 +27,7 @@
 
 1		Data platform - Cloud Pak for Data
 
-2		Watsonx .Data .Governance .AI
+2		Watsonx .Data .Governance .AI 
 
 3		Data Observability - Databand
 
