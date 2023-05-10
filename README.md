@@ -5,12 +5,12 @@
 
 ## Quick links to products
 
-### WatsonX IBM's next generation ai and data platform
-https://www.ibm.com/watsonx
+### [https://www.ibm.com/watsonx](WatsonX IBM's next generation ai and data platform)
 
 
-### Data observability with IBM's new product Databand.
-   https://www.databand.ai
+
+### [https://www.databand.ai](Data observability with IBM's new product Databand)
+   
 
 ### [Learn more about Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data)
 
