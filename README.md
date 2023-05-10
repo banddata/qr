@@ -1,16 +1,19 @@
 # IBM Data&AI 
 
 
-## Powerpointscan be found in folder (click the blue "View code" if on mobile).
 
 
 ## Quick links to products
 
+### WatsonX IBM's next generation ai and data platform
+[WatsonX](https://www.ibm.com/watsonx)
+
+
 ### Data observability with IBM's new product Databand.
-	https://www.databand.ai
+[Databand](https://www.databand.ai)
 
 ### Learn more about Cloud Pak for Data
-	https://www.ibm.com/products/cloud-pak-for-data
+[Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data)
 
 ### Virtual Agents
 [Watson-Assistant](https://www.ibm.com/products/watson-assistant)
@@ -18,9 +21,10 @@
 [Watson-NLP](https://github.com/ibm-build-lab/Watson-NLP)
 ### Use cases and sample notebooks
 [Watson-Libraries](https://www.ibm.com/docs/en/watson-libraries?topic=home-use-cases-sample-notebooks)
-## Client stories:
 
-### Powerpoints:
+
+### Powerpoints: To access the PPTX files, please navigate to the 'Filestructor' folder in the repository. 
+### On mobile devices, click the 'View code' button to see the folder structure.
 
 1		Data platform - Cloud Pak for Data
 
