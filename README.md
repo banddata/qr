@@ -13,11 +13,11 @@
 	https://www.ibm.com/products/cloud-pak-for-data
 
 ### Virtual Agents
-[test](https://www.ibm.com/products/watson-assistant)
+[Watson-Assistant](https://www.ibm.com/products/watson-assistant)
 ### Self-Serve Assets for Embeddable AI using Watson NLP
-	https://github.com/ibm-build-lab/Watson-NLP
+	[Watson-NLP](https://github.com/ibm-build-lab/Watson-NLP)
 ### Use cases and sample notebooks
-	https://www.ibm.com/docs/en/watson-libraries?topic=home-use-cases-sample-notebooks
+	[Watson-Libraries](https://www.ibm.com/docs/en/watson-libraries?topic=home-use-cases-sample-notebooks)
 
 ## Client stories:
 
