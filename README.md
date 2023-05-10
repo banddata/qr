@@ -13,7 +13,7 @@
 	https://www.ibm.com/products/cloud-pak-for-data
 
 ### Virtual Agents
-	[Visit my website](https://www.ibm.com/products/watson-assistant)
+[](https://www.ibm.com/products/watson-assistant)
 ### Self-Serve Assets for Embeddable AI using Watson NLP
 	https://github.com/ibm-build-lab/Watson-NLP
 ### Use cases and sample notebooks
@@ -29,7 +29,6 @@
 
 3		Data Observability - Databand
 
-4		End of Day one
 
 
 
