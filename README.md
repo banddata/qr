@@ -12,8 +12,7 @@ https://www.ibm.com/watsonx
 ### Data observability with IBM's new product Databand.
    https://www.databand.ai
 
-### Learn more about Cloud Pak for Data
-[Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data)
+### [Learn more about Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data)
 
 ### Virtual Agents
 [Watson-Assistant](https://www.ibm.com/products/watson-assistant)
