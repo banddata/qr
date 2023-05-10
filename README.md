@@ -10,7 +10,7 @@ https://www.ibm.com/watsonx
 
 
 ### Data observability with IBM's new product Databand.
-[Databand](https://www.databand.ai)
+   https://www.databand.ai
 
 ### Learn more about Cloud Pak for Data
 [Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data)
