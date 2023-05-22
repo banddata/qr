@@ -34,6 +34,13 @@
 
 3		Data Observability - Databand
 
+### Events
+
+1 [Watson-NLP](https://github.com/ibm-build-lab/Watson-NLP](https://www.meetup.com/ibm-cloud-stockholm/events/293279088/)
+Meet and listen to our Masters Thesis student Hussein Abdelraouf from Umeå University who willbe talking about his thesis work this spring and the results. The title of his thesis is "Comparingdifferent pre-trained language models in domain specific tasks".Hear about some of the real life implementations of use cases for text analytics in Swedish fromClient Engineering's Wanmeng He.
+
+2 [Samhällssäker digitalisering](https://www.cgi.com/se/sv/event/samhallssaker-digitalisering-ar-du-redo-nis-2)
+Välkommen till ett webbinarium där representanter från CGI och Aigine pratar om systematiskt informationssäkerhetsarbete med AI-driven informationskontroll.
 
 ### Contact
 Johan.Vastfalt@ibm.com
